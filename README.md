@@ -1,1 +1,1 @@
-Modelo de site para candidatos com ia.
+Modelo de site para candidatos.
